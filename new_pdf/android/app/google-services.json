@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306941482005",
+    "project_id": "networkpdf",
+    "storage_bucket": "networkpdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306941482005:android:a84fd3340666fc99c2ea1c",
+        "android_client_info": {
+          "package_name": "com.example.new_pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306941482005-ckc176ng92jvqdvnjrm1ah7ueucgkt2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2UIcvP-GIOREfJuUa1-rS-39Bu0pO2VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306941482005-ckc176ng92jvqdvnjrm1ah7ueucgkt2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
